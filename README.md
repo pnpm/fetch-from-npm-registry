@@ -1,5 +1,7 @@
 # fetch-from-npm-registry
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pnpm/fetch-from-npm-registry.svg)](https://greenkeeper.io/)
+
 > A fetch lib specifically for using with the npm registry
 
 <!--@shields('npm', 'travis')-->
