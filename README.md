@@ -1,3 +1,5 @@
+> this package has been moved to https://github.com/pnpm/pnpm/tree/master/packages/fetch-from-npm-registry
+
 # fetch-from-npm-registry
 
 > A fetch lib specifically for using with the npm registry
